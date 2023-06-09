@@ -68,7 +68,6 @@ class LNode:
 			tracker = tracker.next
 
 
-
 class LinkedList:
 	def __init__(self):
 		self.head = None
